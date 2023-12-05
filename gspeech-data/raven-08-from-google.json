@@ -1,0 +1,769 @@
+{
+  "metadata": {
+    "totalBilledDuration": "47s"
+  },
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "then we thought the air grew denser perfumed from an unseen sensor swung by Angels whose fatefoot falls tinkled on the tufted floor wretch I cried that God had lengthy by these angels He had sent the respite respite in the panthey from thy memories of Lenore oh let me quaff this kind of penthy and forget this lost Lenore Across The Raven",
+          "confidence": 0.9618327,
+          "words": [
+            {
+              "startOffset": "1s",
+              "endOffset": "1.300s",
+              "word": "then",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "1.300s",
+              "endOffset": "2.200s",
+              "word": "methought",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "2.200s",
+              "endOffset": "2.400s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "2.400s",
+              "endOffset": "2.800s",
+              "word": "air",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "2.800s",
+              "endOffset": "3.100s",
+              "word": "grew",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "3.100s",
+              "endOffset": "3.400s",
+              "word": "denser",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "3.400s",
+              "endOffset": "4.200s",
+              "word": "perfumed",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "4.200s",
+              "endOffset": "4.300s",
+              "word": "from",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "4.300s",
+              "endOffset": "4.500s",
+              "word": "an",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "4.500s",
+              "endOffset": "4.900s",
+              "word": "unseen",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "4.900s",
+              "endOffset": "5.400s",
+              "word": "sensor",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "5.400s",
+              "endOffset": "6s",
+              "word": "swung",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "6s",
+              "endOffset": "6.100s",
+              "word": "by",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "6.100s",
+              "endOffset": "6.700s",
+              "word": "Angels",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "6.700s",
+              "endOffset": "7.100s",
+              "word": "whose",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "7.100s",
+              "endOffset": "7.300s",
+              "word": "faint",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "7.300s",
+              "endOffset": "7.900s",
+              "word": "foot-falls",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "7.900s",
+              "endOffset": "8.400s",
+              "word": "tinkled",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "8.400s",
+              "endOffset": "8.500s",
+              "word": "on",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "8.500s",
+              "endOffset": "8.600s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "8.600s",
+              "endOffset": "9s",
+              "word": "tufted",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "9s",
+              "endOffset": "9.200s",
+              "word": "floor",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "9.200s",
+              "endOffset": "10.700s",
+              "word": "wretch",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "10.700s",
+              "endOffset": "10.900s",
+              "word": "I",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "10.900s",
+              "endOffset": "11.100s",
+              "word": "cried",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "11.100s",
+              "endOffset": "11.300s",
+              "word": "that",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "11.300s",
+              "endOffset": "11.700s",
+              "word": "God",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "11.700s",
+              "endOffset": "11.800s",
+              "word": "had",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "11.800s",
+              "endOffset": "12.200s",
+              "word": "lent",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "12.200s",
+              "endOffset": "12.400s",
+              "word": "thee",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "12.400s",
+              "endOffset": "13.200s",
+              "word": "by",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "13.200s",
+              "endOffset": "13.400s",
+              "word": "these",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "13.400s",
+              "endOffset": "13.800s",
+              "word": "angels",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "13.800s",
+              "endOffset": "14.100s",
+              "word": "He",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "14.100s",
+              "endOffset": "14.200s",
+              "word": "had",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "14.200s",
+              "endOffset": "14.500s",
+              "word": "sent",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "14.500s",
+              "endOffset": "14.800s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "14.800s",
+              "endOffset": "15.200s",
+              "word": "respite",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "15.200s",
+              "endOffset": "16s",
+              "word": "respite",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "16s",
+              "endOffset": "16.300s",
+              "word": "in",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "16.300s",
+              "endOffset": "16.800s",
+              "word": "nepenthe",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "16.800s",
+              "endOffset": "16.800s",
+              "word": "from",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "16.800s",
+              "endOffset": "17.200s",
+              "word": "thy",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "17.200s",
+              "endOffset": "17.400s",
+              "word": "memories",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "17.400s",
+              "endOffset": "17.500s",
+              "word": "of",
+              "confidence": 0.935799
+            },
+            {
+              "startOffset": "17.500s",
+              "endOffset": "18s",
+              "word": "Lenore",
+              "confidence": 0.9610187
+            },
+            {
+              "startOffset": "18s",
+              "endOffset": "18.600s",
+              "word": "oh",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "18.600s",
+              "endOffset": "18.800s",
+              "word": "let",
+              "confidence": 0.9498419
+            },
+            {
+              "startOffset": "18.800s",
+              "endOffset": "18.900s",
+              "word": "me",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "18.900s",
+              "endOffset": "19.200s",
+              "word": "quaff",
+              "confidence": 0.9610187
+            },
+            {
+              "startOffset": "19.200s",
+              "endOffset": "19.300s",
+              "word": "this",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "19.300s",
+              "endOffset": "19.500s",
+              "word": "kind",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "19.500s",
+              "endOffset": "20.200s",
+              "word": "nepenthe",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "20.200s",
+              "endOffset": "20.300s",
+              "word": "and",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "20.300s",
+              "endOffset": "20.400s",
+              "word": "forget",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "20.400s",
+              "endOffset": "20.700s",
+              "word": "this",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "20.700s",
+              "endOffset": "20.900s",
+              "word": "lost",
+              "confidence": 0.935799
+            },
+            {
+              "startOffset": "20.900s",
+              "endOffset": "21.300s",
+              "word": "Lenore",
+              "confidence": 0.96717876
+            },
+            {
+              "startOffset": "21.300s",
+              "endOffset": "21.800s",
+              "word": "Across",
+              "confidence": 0.5669163
+            },
+            {
+              "startOffset": "21.800s",
+              "endOffset": "21.900s",
+              "word": "The",
+              "confidence": 0.92410266
+            },
+            {
+              "startOffset": "21.900s",
+              "endOffset": "22.200s",
+              "word": "Raven",
+              "confidence": 0.9337285
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "22.690s",
+      "languageCode": "en-US"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " Nevermore",
+          "confidence": 0.9341624,
+          "words": [
+            {
+              "startOffset": "22.700s",
+              "endOffset": "23.300s",
+              "word": "Nevermore",
+              "confidence": 0.9341624
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "23.930s",
+      "languageCode": "en-US"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " Prophet said I think of evil Prophet still if bird or devil whether temp to scent or whether Tempest tosti here ashore desolate yet all undaunted on this desert land Enchanted on this home buyer horror haunted tell me truly I implore is there is there balm in Gilead tell me tell me I implore with the Raven Nevermore",
+          "confidence": 0.9677247,
+          "words": [
+            {
+              "startOffset": "24.600s",
+              "endOffset": "25s",
+              "word": "Prophet",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "25s",
+              "endOffset": "25.400s",
+              "word": "said",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "25.400s",
+              "endOffset": "25.400s",
+              "word": "I",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "25.400s",
+              "endOffset": "25.800s",
+              "word": "think",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "25.800s",
+              "endOffset": "25.900s",
+              "word": "of",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "25.900s",
+              "endOffset": "26.400s",
+              "word": "evil",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "26.400s",
+              "endOffset": "27.500s",
+              "word": "Prophet",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "27.500s",
+              "endOffset": "27.700s",
+              "word": "still",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "27.700s",
+              "endOffset": "28s",
+              "word": "if",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "28s",
+              "endOffset": "28.200s",
+              "word": "bird",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "28.200s",
+              "endOffset": "28.300s",
+              "word": "or",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "28.300s",
+              "endOffset": "28.900s",
+              "word": "devil",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "28.900s",
+              "endOffset": "29s",
+              "word": "whether",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "29s",
+              "endOffset": "29.800s",
+              "word": "tempter",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "29.800s",
+              "endOffset": "30s",
+              "word": "sent",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "30s",
+              "endOffset": "30s",
+              "word": "or",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "30s",
+              "endOffset": "30.200s",
+              "word": "whether",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "30.200s",
+              "endOffset": "30.700s",
+              "word": "Tempest",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "30.700s",
+              "endOffset": "31.100s",
+              "word": "tossed",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "31.100s",
+              "endOffset": "31.200s",
+              "word": "thee",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "31.200s",
+              "endOffset": "31.300s",
+              "word": "here",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "31.300s",
+              "endOffset": "31.700s",
+              "word": "ashore",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "31.700s",
+              "endOffset": "32.600s",
+              "word": "desolate",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "32.600s",
+              "endOffset": "32.700s",
+              "word": "yet",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "32.700s",
+              "endOffset": "33s",
+              "word": "all",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "33s",
+              "endOffset": "33.600s",
+              "word": "undaunted",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "33.600s",
+              "endOffset": "33.900s",
+              "word": "on",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "33.900s",
+              "endOffset": "34.100s",
+              "word": "this",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "34.100s",
+              "endOffset": "34.700s",
+              "word": "desert",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "34.700s",
+              "endOffset": "34.800s",
+              "word": "land",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "34.800s",
+              "endOffset": "35.500s",
+              "word": "Enchanted",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "35.500s",
+              "endOffset": "35.800s",
+              "word": "on",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "35.800s",
+              "endOffset": "36s",
+              "word": "this",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "36s",
+              "endOffset": "36.200s",
+              "word": "home",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "36.200s",
+              "endOffset": "36.900s",
+              "word": "buyer",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "36.900s",
+              "endOffset": "37.500s",
+              "word": "horror",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "37.500s",
+              "endOffset": "37.800s",
+              "word": "haunted",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "37.800s",
+              "endOffset": "38.300s",
+              "word": "tell",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "38.300s",
+              "endOffset": "38.300s",
+              "word": "me",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "38.300s",
+              "endOffset": "38.700s",
+              "word": "truly",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "38.700s",
+              "endOffset": "38.800s",
+              "word": "I",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "38.800s",
+              "endOffset": "39.400s",
+              "word": "implore",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "39.400s",
+              "endOffset": "39.400s",
+              "word": "is",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "39.400s",
+              "endOffset": "39.800s",
+              "word": "there",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "39.800s",
+              "endOffset": "40.500s",
+              "word": "is",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "40.500s",
+              "endOffset": "40.800s",
+              "word": "there",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "40.800s",
+              "endOffset": "41.300s",
+              "word": "balm",
+              "confidence": 0.95282835
+            },
+            {
+              "startOffset": "41.300s",
+              "endOffset": "41.400s",
+              "word": "in",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "41.400s",
+              "endOffset": "41.700s",
+              "word": "Gilead",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "41.700s",
+              "endOffset": "42s",
+              "word": "tell",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "42s",
+              "endOffset": "42s",
+              "word": "me",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "42s",
+              "endOffset": "42.400s",
+              "word": "tell",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "42.400s",
+              "endOffset": "42.700s",
+              "word": "me",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "42.700s",
+              "endOffset": "42.700s",
+              "word": "I",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "42.700s",
+              "endOffset": "43.300s",
+              "word": "implore",
+              "confidence": 0.96941316
+            },
+            {
+              "startOffset": "43.300s",
+              "endOffset": "44.100s",
+              "word": "with",
+              "confidence": 0.8324242
+            },
+            {
+              "startOffset": "44.100s",
+              "endOffset": "44.100s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "44.100s",
+              "endOffset": "44.500s",
+              "word": "Raven",
+              "confidence": 0.92532086
+            },
+            {
+              "startOffset": "44.500s",
+              "endOffset": "45.300s",
+              "word": "Nevermore",
+              "confidence": 0.9172437
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "46.160s",
+      "languageCode": "en-US"
+    }
+  ]
+}

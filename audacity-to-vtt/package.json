@@ -1,0 +1,28 @@
+{
+  "name": "audacitytowebvtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "audacityLabelsToWebVtt.js",
+  "type": "module",
+  "scripts": {
+    "build": "npm run clean && npm run compile",
+    "clean": "rimraf -rf ./build",
+    "compile": "tsc",
+    "audToVtt": "node build/audacityLablesToWebVtt.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chardet": "^2.0.0",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.1.1",
+    "vtt-creator": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/commander": "^2.12.2",
+    "@types/fs-extra": "^11.0.2",
+    "@types/node": "^20.8.5",
+    "typescript": "^5.2.2"
+  }
+}

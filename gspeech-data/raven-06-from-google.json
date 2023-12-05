@@ -1,0 +1,709 @@
+{
+  "metadata": {
+    "totalBilledDuration": "46s"
+  },
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "wondering it's Stillness broken by reply so aptly spoken doubtless said I what it does is it's only stock and store caught from someone happy master who won merciful disaster followed fast and followed faster so when hope he would adore Stern despair returned instead of the sweet hope he dared a draw that sad answer never more but the Raven still beguiling all my sad soul into smiling straight I will the cushioned seat in front of bird and bus and door then upon the Velvet sinking eye but took myself to linking fancy under fancy thinking what this ominous bird of your this grim and gainly Gastly gaunt and ominous bird of your meant and croaking Nevermore",
+          "confidence": 0.96824396,
+          "words": [
+            {
+              "startOffset": "0.600s",
+              "endOffset": "1.100s",
+              "word": "wondering",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "1.100s",
+              "endOffset": "1.400s",
+              "word": "at",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "1.400s",
+              "endOffset": "1.800s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "1.800s",
+              "endOffset": "2.400s",
+              "word": "Stillness",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "2.400s",
+              "endOffset": "2.700s",
+              "word": "broken",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "2.700s",
+              "endOffset": "3.100s",
+              "word": "by",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "3.100s",
+              "endOffset": "4.600s",
+              "word": "reply",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "4.600s",
+              "endOffset": "4.700s",
+              "word": "so",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "4.700s",
+              "endOffset": "5.600s",
+              "word": "aptly",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "5.600s",
+              "endOffset": "6.100s",
+              "word": "spoken",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "6.100s",
+              "endOffset": "7.100s",
+              "word": "doubtless",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "7.100s",
+              "endOffset": "7.200s",
+              "word": "said",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "7.200s",
+              "endOffset": "7.400s",
+              "word": "I",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "7.400s",
+              "endOffset": "7.700s",
+              "word": "what",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "7.700s",
+              "endOffset": "7.900s",
+              "word": "it",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "7.900s",
+              "endOffset": "8s",
+              "word": "does",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "8s",
+              "endOffset": "8.100s",
+              "word": "is",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "8.100s",
+              "endOffset": "8.500s",
+              "word": "it's",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "8.500s",
+              "endOffset": "8.900s",
+              "word": "only",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "8.900s",
+              "endOffset": "9.500s",
+              "word": "stock",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "9.500s",
+              "endOffset": "9.800s",
+              "word": "and",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "9.800s",
+              "endOffset": "9.900s",
+              "word": "store",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "9.900s",
+              "endOffset": "10.500s",
+              "word": "caught",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "10.500s",
+              "endOffset": "10.600s",
+              "word": "from",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "10.600s",
+              "endOffset": "10.900s",
+              "word": "some",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "10.900s",
+              "endOffset": "11.300s",
+              "word": "unhappy",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "11.300s",
+              "endOffset": "11.600s",
+              "word": "master",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "11.600s",
+              "endOffset": "11.700s",
+              "word": "who",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "11.700s",
+              "endOffset": "12.400s",
+              "word": "unmerciful",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "12.400s",
+              "endOffset": "12.800s",
+              "word": "disaster",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "12.800s",
+              "endOffset": "13.300s",
+              "word": "followed",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "13.300s",
+              "endOffset": "13.600s",
+              "word": "fast",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "13.600s",
+              "endOffset": "13.900s",
+              "word": "and",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "13.900s",
+              "endOffset": "14.200s",
+              "word": "followed",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "14.200s",
+              "endOffset": "14.600s",
+              "word": "faster",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "14.600s",
+              "endOffset": "14.900s",
+              "word": "so",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "14.900s",
+              "endOffset": "15.100s",
+              "word": "when",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "15.100s",
+              "endOffset": "15.600s",
+              "word": "hope",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "15.600s",
+              "endOffset": "15.700s",
+              "word": "he",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "15.700s",
+              "endOffset": "15.800s",
+              "word": "would",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "15.800s",
+              "endOffset": "16.200s",
+              "word": "adore",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "16.200s",
+              "endOffset": "17.200s",
+              "word": "Stern",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "17.200s",
+              "endOffset": "17.600s",
+              "word": "despair",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "17.600s",
+              "endOffset": "18.200s",
+              "word": "returned",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "18.200s",
+              "endOffset": "18.700s",
+              "word": "instead",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "18.700s",
+              "endOffset": "18.800s",
+              "word": "of",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "18.800s",
+              "endOffset": "18.900s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "18.900s",
+              "endOffset": "19.200s",
+              "word": "sweet",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "19.200s",
+              "endOffset": "19.500s",
+              "word": "hope",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "19.500s",
+              "endOffset": "19.800s",
+              "word": "he",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "19.800s",
+              "endOffset": "20.100s",
+              "word": "dared",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "20.100s",
+              "endOffset": "20.400s",
+              "word": "adjure",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "20.400s",
+              "endOffset": "21.300s",
+              "word": "that",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "21.300s",
+              "endOffset": "21.500s",
+              "word": "sad",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "21.500s",
+              "endOffset": "21.800s",
+              "word": "answer",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "21.800s",
+              "endOffset": "22.800s",
+              "word": "nevermore",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "22.800s",
+              "endOffset": "23.700s",
+              "word": "but",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "23.700s",
+              "endOffset": "24s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "24s",
+              "endOffset": "24.700s",
+              "word": "Raven",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "24.700s",
+              "endOffset": "24.800s",
+              "word": "still",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "24.800s",
+              "endOffset": "25.500s",
+              "word": "beguiling",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "25.600s",
+              "endOffset": "26s",
+              "word": "my",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "26s",
+              "endOffset": "26.300s",
+              "word": "sad",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "26.300s",
+              "endOffset": "26.500s",
+              "word": "soul",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "26.500s",
+              "endOffset": "26.900s",
+              "word": "into",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "26.900s",
+              "endOffset": "27.200s",
+              "word": "smiling",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "27.200s",
+              "endOffset": "27.600s",
+              "word": "straight",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "27.600s",
+              "endOffset": "27.900s",
+              "word": "I",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "27.900s",
+              "endOffset": "28.200s",
+              "word": "will",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "28.200s",
+              "endOffset": "28.500s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "28.500s",
+              "endOffset": "28.800s",
+              "word": "cushioned",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "28.800s",
+              "endOffset": "28.900s",
+              "word": "seat",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "28.900s",
+              "endOffset": "29.100s",
+              "word": "in",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "29.100s",
+              "endOffset": "29.100s",
+              "word": "front",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "29.100s",
+              "endOffset": "29.200s",
+              "word": "of",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "29.200s",
+              "endOffset": "29.600s",
+              "word": "bird",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "29.600s",
+              "endOffset": "29.900s",
+              "word": "and",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "29.900s",
+              "endOffset": "30.200s",
+              "word": "bus",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "30.200s",
+              "endOffset": "30.500s",
+              "word": "and",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "30.500s",
+              "endOffset": "30.900s",
+              "word": "door",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "30.900s",
+              "endOffset": "31.500s",
+              "word": "then",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "31.500s",
+              "endOffset": "31.800s",
+              "word": "upon",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "31.800s",
+              "endOffset": "32s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "32s",
+              "endOffset": "32.400s",
+              "word": "Velvet",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "32.400s",
+              "endOffset": "32.800s",
+              "word": "sinking",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "32.800s",
+              "endOffset": "33.200s",
+              "word": "eye",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "33.200s",
+              "endOffset": "33.500s",
+              "word": "betook",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "33.500s",
+              "endOffset": "33.700s",
+              "word": "myself",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "33.700s",
+              "endOffset": "33.900s",
+              "word": "to",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "33.900s",
+              "endOffset": "34.400s",
+              "word": "linking",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "34.400s",
+              "endOffset": "35s",
+              "word": "fancy",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "35s",
+              "endOffset": "35.400s",
+              "word": "under",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "35.400s",
+              "endOffset": "36s",
+              "word": "fancy",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "36s",
+              "endOffset": "36.200s",
+              "word": "thinking",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "36.200s",
+              "endOffset": "36.700s",
+              "word": "what",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "36.700s",
+              "endOffset": "36.900s",
+              "word": "this",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "36.900s",
+              "endOffset": "37.400s",
+              "word": "ominous",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "37.400s",
+              "endOffset": "37.500s",
+              "word": "bird",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "37.500s",
+              "endOffset": "37.800s",
+              "word": "of",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "37.800s",
+              "endOffset": "37.900s",
+              "word": "your",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "37.900s",
+              "endOffset": "38s",
+              "word": "what",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "38s",
+              "endOffset": "39s",
+              "word": "this",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "39s",
+              "endOffset": "39.300s",
+              "word": "grim",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "39.300s",
+              "endOffset": "40.300s",
+              "word": "ungainly",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "40.300s",
+              "endOffset": "41.300s",
+              "word": "Gastly",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "41.300s",
+              "endOffset": "41.700s",
+              "word": "gaunt",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "41.700s",
+              "endOffset": "41.900s",
+              "word": "and",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "41.900s",
+              "endOffset": "42.500s",
+              "word": "ominous",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "42.500s",
+              "endOffset": "42.700s",
+              "word": "bird",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "42.700s",
+              "endOffset": "42.900s",
+              "word": "of",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "42.900s",
+              "endOffset": "43.100s",
+              "word": "your",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "43.100s",
+              "endOffset": "43.700s",
+              "word": "meant",
+              "confidence": 0.68577164
+            },
+            {
+              "startOffset": "43.700s",
+              "endOffset": "43.900s",
+              "word": "and",
+              "confidence": 0.864257
+            },
+            {
+              "startOffset": "43.900s",
+              "endOffset": "44.100s",
+              "word": "croaking",
+              "confidence": 0.9421607
+            },
+            {
+              "startOffset": "44.100s",
+              "endOffset": "44.900s",
+              "word": "Nevermore",
+              "confidence": 0.92625487
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "45.270s",
+      "languageCode": "en-US"
+    }
+  ]
+}

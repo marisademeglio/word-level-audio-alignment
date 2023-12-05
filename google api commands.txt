@@ -1,0 +1,19 @@
+echo "{
+  \"config\": {
+    \"auto_decoding_config\": {},
+    \"language_codes\": [\"en-US\"],
+    \"model\": \"long\",
+    \"features\": {
+      \"enableWordTimeOffsets\": true,
+      \"enableWordConfidence\": true
+    }
+  },
+  \"content\": \"$(base64 -i /Users/marisa/dev/sync-media-pub/demo-src/webvtt/raven/raven-10.wav | sed 's/+/-/g; s/\//_/g')\"
+}" > /tmp/data.txt
+
+curl -X POST -H "Content-Type: application/json; charset=utf-8" \
+    -H "Authorization: Bearer $(gcloud auth application-default print-access-token)" \
+    -d @/tmp/data.txt \
+    -o /Users/marisa/dev/sync-media-pub/demo-src/webvtt/raven-10-from-google.json \
+    https://speech.googleapis.com/v2/projects/speech2text-402905/locations/global/recognizers/_:recognize
+    

@@ -1,0 +1,523 @@
+{
+  "metadata": {
+    "totalBilledDuration": "33s"
+  },
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "The Raven",
+          "confidence": 0.9438629,
+          "words": [
+            {
+              "startOffset": "0.700s",
+              "endOffset": "0.800s",
+              "word": "And",
+              "confidence": 0.94062805
+            },
+            {
+              "startOffset": "0.800s",
+              "endOffset": "1s",
+              "word": "The",
+              "confidence": 0.94062805
+            },
+            {
+              "startOffset": "1s",
+              "endOffset": "1.600s",
+              "word": "Raven",
+              "confidence": 0.9470977
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "2.050s",
+      "languageCode": "en-US"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " never flitting still is sitting still",
+          "confidence": 0.9353018,
+          "words": [
+            {
+              "startOffset": "2.400s",
+              "endOffset": "2.600s",
+              "word": "never",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "2.600s",
+              "endOffset": "3.100s",
+              "word": "flitting",
+              "confidence": 0.8300743
+            },
+            {
+              "startOffset": "3.100s",
+              "endOffset": "3.500s",
+              "word": "still",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "3.500s",
+              "endOffset": "3.900s",
+              "word": "is",
+              "confidence": 0.95301795
+            },
+            {
+              "startOffset": "3.900s",
+              "endOffset": "4.200s",
+              "word": "sitting",
+              "confidence": 0.9154681
+            },
+            {
+              "startOffset": "4.200s",
+              "endOffset": "4.300s",
+              "word": "still",
+              "confidence": 0.9688599
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "5.110s",
+      "languageCode": "en-US"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " he's sitting",
+          "confidence": 0.8367625,
+          "words": [
+            {
+              "startOffset": "5.200s",
+              "endOffset": "5.600s",
+              "word": "he's",
+              "confidence": 0.70529544
+            },
+            {
+              "startOffset": "5.600s",
+              "endOffset": "5.800s",
+              "word": "sitting",
+              "confidence": 0.96822953
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "6.360s",
+      "languageCode": "en-US"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " on the pallet Buster Palace just above my chamber door",
+          "confidence": 0.9647757,
+          "words": [
+            {
+              "startOffset": "6.600s",
+              "endOffset": "6.800s",
+              "word": "on",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "6.800s",
+              "endOffset": "6.800s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "6.800s",
+              "endOffset": "7.400s",
+              "word": "pallet",
+              "confidence": 0.9312795
+            },
+            {
+              "startOffset": "7.400s",
+              "endOffset": "7.900s",
+              "word": "Bust",
+              "confidence": 0.9561546
+            },
+            {
+              "startOffset": "7.900s",
+              "endOffset": "8s",
+              "word": "of",
+              "confidence": 0.9561546
+            },
+            {
+              "startOffset": "8s",
+              "endOffset": "8.300s",
+              "word": "Palace",
+              "confidence": 0.96859217
+            },
+            {
+              "startOffset": "8.300s",
+              "endOffset": "9.100s",
+              "word": "just",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "9.100s",
+              "endOffset": "9.400s",
+              "word": "above",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "9.400s",
+              "endOffset": "9.600s",
+              "word": "my",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "9.600s",
+              "endOffset": "10.400s",
+              "word": "chamber",
+              "confidence": 0.9585568
+            },
+            {
+              "startOffset": "10.400s",
+              "endOffset": "10.500s",
+              "word": "door",
+              "confidence": 0.97219545
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "11.080s",
+      "languageCode": "en-US"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and his eyes have all the seeming",
+          "confidence": 0.9721955,
+          "words": [
+            {
+              "startOffset": "11.600s",
+              "endOffset": "11.800s",
+              "word": "and",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "11.800s",
+              "endOffset": "12.200s",
+              "word": "his",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "12.200s",
+              "endOffset": "12.500s",
+              "word": "eyes",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "12.500s",
+              "endOffset": "13s",
+              "word": "have",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "13s",
+              "endOffset": "13.300s",
+              "word": "all",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "13.300s",
+              "endOffset": "13.600s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "13.600s",
+              "endOffset": "14.200s",
+              "word": "seeming",
+              "confidence": 0.97219545
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "14.760s",
+      "languageCode": "en-US"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " of a demon that is dreaming",
+          "confidence": 0.93053645,
+          "words": [
+            {
+              "startOffset": "14.900s",
+              "endOffset": "15.100s",
+              "word": "of",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "15.100s",
+              "endOffset": "15.400s",
+              "word": "a",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "15.400s",
+              "endOffset": "15.700s",
+              "word": "demon",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "15.700s",
+              "endOffset": "16.200s",
+              "word": "that",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "16.200s",
+              "endOffset": "16.300s",
+              "word": "is",
+              "confidence": 0.80239683
+            },
+            {
+              "startOffset": "16.300s",
+              "endOffset": "16.500s",
+              "word": "dreaming",
+              "confidence": 0.89203984
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "17.280s",
+      "languageCode": "en-US"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and the lamp light over him streaming throws his shadow on the floor",
+          "confidence": 0.9579532,
+          "words": [
+            {
+              "startOffset": "17.400s",
+              "endOffset": "17.600s",
+              "word": "and",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "17.600s",
+              "endOffset": "17.900s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "17.900s",
+              "endOffset": "18.300s",
+              "word": "lamplight",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "18.300s",
+              "endOffset": "18.600s",
+              "word": "over",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "18.600s",
+              "endOffset": "18.800s",
+              "word": "him",
+              "confidence": 0.9508535
+            },
+            {
+              "startOffset": "18.800s",
+              "endOffset": "19.200s",
+              "word": "streaming",
+              "confidence": 0.957809
+            },
+            {
+              "startOffset": "19.200s",
+              "endOffset": "19.500s",
+              "word": "throws",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "19.500s",
+              "endOffset": "19.800s",
+              "word": "his",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "19.800s",
+              "endOffset": "20.200s",
+              "word": "shadow",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "20.200s",
+              "endOffset": "20.600s",
+              "word": "on",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "20.600s",
+              "endOffset": "20.600s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "20.600s",
+              "endOffset": "20.900s",
+              "word": "floor",
+              "confidence": 0.97219545
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "21.620s",
+      "languageCode": "en-US"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " and my soul from Outback shadow",
+          "confidence": 0.9614529,
+          "words": [
+            {
+              "startOffset": "22.400s",
+              "endOffset": "22.600s",
+              "word": "and",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "22.600s",
+              "endOffset": "23.200s",
+              "word": "my",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "23.200s",
+              "endOffset": "23.300s",
+              "word": "soul",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "23.300s",
+              "endOffset": "24s",
+              "word": "from",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "24s",
+              "endOffset": "24.300s",
+              "word": "Out",
+              "confidence": 0.9077397
+            },
+            {
+              "startOffset": "24.300s",
+              "endOffset": "24.700s",
+              "word": "that",
+              "confidence": 0.9077397
+            },
+            {
+              "startOffset": "24.700s",
+              "endOffset": "24.900s",
+              "word": "shadow",
+              "confidence": 0.97219545
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "25.540s",
+      "languageCode": "en-US"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " that lies floating on the floor",
+          "confidence": 0.9719576,
+          "words": [
+            {
+              "startOffset": "25.600s",
+              "endOffset": "25.700s",
+              "word": "that",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "25.700s",
+              "endOffset": "26.200s",
+              "word": "lies",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "26.200s",
+              "endOffset": "26.800s",
+              "word": "floating",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "26.800s",
+              "endOffset": "27.400s",
+              "word": "on",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "27.400s",
+              "endOffset": "27.400s",
+              "word": "the",
+              "confidence": 0.9707682
+            },
+            {
+              "startOffset": "27.400s",
+              "endOffset": "27.700s",
+              "word": "floor",
+              "confidence": 0.97219545
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "28.430s",
+      "languageCode": "en-US"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " shall be lifted",
+          "confidence": 0.97219545,
+          "words": [
+            {
+              "startOffset": "29.100s",
+              "endOffset": "29.500s",
+              "word": "shall",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "29.500s",
+              "endOffset": "29.800s",
+              "word": "be",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "29.800s",
+              "endOffset": "30s",
+              "word": "lifted",
+              "confidence": 0.97219545
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "30.540s",
+      "languageCode": "en-US"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " Nevermore",
+          "confidence": 0.8947257,
+          "words": [
+            {
+              "startOffset": "31.400s",
+              "endOffset": "32.200s",
+              "word": "Nevermore",
+              "confidence": 0.8947257
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "32.910s",
+      "languageCode": "en-US"
+    }
+  ]
+}

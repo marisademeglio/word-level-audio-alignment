@@ -1,0 +1,391 @@
+{
+  "metadata": {
+    "totalBilledDuration": "26s"
+  },
+  "results": [
+    {
+      "alternatives": [
+        {
+          "transcript": "this I sat engaged in guessing but no syllable expressing to the foul whose fiery eyes now burned into my bosom's core this and more I sat Divine with my head at ease reclining on the cushions velvet lining that the lamp like gloated over",
+          "confidence": 0.9653102,
+          "words": [
+            {
+              "startOffset": "0.200s",
+              "endOffset": "0.400s",
+              "word": "this",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "0.400s",
+              "endOffset": "1s",
+              "word": "I",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "1s",
+              "endOffset": "1.300s",
+              "word": "sat",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "1.300s",
+              "endOffset": "1.700s",
+              "word": "engaged",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "1.700s",
+              "endOffset": "1.900s",
+              "word": "in",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "1.900s",
+              "endOffset": "2.500s",
+              "word": "guessing",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "2.500s",
+              "endOffset": "2.600s",
+              "word": "but",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "2.600s",
+              "endOffset": "2.700s",
+              "word": "no",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "2.700s",
+              "endOffset": "3.200s",
+              "word": "syllable",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "3.200s",
+              "endOffset": "3.600s",
+              "word": "expressing",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "3.600s",
+              "endOffset": "4s",
+              "word": "to",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "4s",
+              "endOffset": "4s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "4s",
+              "endOffset": "4.600s",
+              "word": "foul",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "4.600s",
+              "endOffset": "5.200s",
+              "word": "whose",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "5.200s",
+              "endOffset": "5.500s",
+              "word": "fiery",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "5.500s",
+              "endOffset": "5.600s",
+              "word": "eyes",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "5.600s",
+              "endOffset": "5.900s",
+              "word": "now",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "5.900s",
+              "endOffset": "6.200s",
+              "word": "burned",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "6.200s",
+              "endOffset": "6.400s",
+              "word": "into",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "6.400s",
+              "endOffset": "6.600s",
+              "word": "my",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "6.600s",
+              "endOffset": "7.300s",
+              "word": "bosom's",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "7.300s",
+              "endOffset": "7.500s",
+              "word": "core",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "7.500s",
+              "endOffset": "7.800s",
+              "word": "this",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "7.800s",
+              "endOffset": "8.500s",
+              "word": "and",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "8.500s",
+              "endOffset": "8.800s",
+              "word": "more",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "8.800s",
+              "endOffset": "8.900s",
+              "word": "I",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "8.900s",
+              "endOffset": "9.200s",
+              "word": "sat",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "9.200s",
+              "endOffset": "9.700s",
+              "word": "Divine",
+              "confidence": 0.91796285
+            },
+            {
+              "startOffset": "9.700s",
+              "endOffset": "9.800s",
+              "word": "with",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "9.800s",
+              "endOffset": "10s",
+              "word": "my",
+              "confidence": 0.9401871
+            },
+            {
+              "startOffset": "10s",
+              "endOffset": "10.100s",
+              "word": "head",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "10.100s",
+              "endOffset": "10.500s",
+              "word": "at",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "10.500s",
+              "endOffset": "10.700s",
+              "word": "ease",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "10.700s",
+              "endOffset": "11.200s",
+              "word": "reclining",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "11.200s",
+              "endOffset": "11.300s",
+              "word": "on",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "11.300s",
+              "endOffset": "11.500s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "11.500s",
+              "endOffset": "11.900s",
+              "word": "cushions",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "11.900s",
+              "endOffset": "12.400s",
+              "word": "velvet",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "12.400s",
+              "endOffset": "12.800s",
+              "word": "lining",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "12.800s",
+              "endOffset": "13s",
+              "word": "that",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "13s",
+              "endOffset": "13.100s",
+              "word": "the",
+              "confidence": 0.9513274
+            },
+            {
+              "startOffset": "13.100s",
+              "endOffset": "13.600s",
+              "word": "lamplight",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "13.600s",
+              "endOffset": "14s",
+              "word": "gloated",
+              "confidence": 0.82512563
+            },
+            {
+              "startOffset": "14s",
+              "endOffset": "14.200s",
+              "word": "over",
+              "confidence": 0.97219545
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "14.690s",
+      "languageCode": "en-US"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " but whose velvet Violet lining with the lamp like gloating over she shall press",
+          "confidence": 0.9612256,
+          "words": [
+            {
+              "startOffset": "14.800s",
+              "endOffset": "14.900s",
+              "word": "but",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "14.900s",
+              "endOffset": "15.300s",
+              "word": "whose",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "15.300s",
+              "endOffset": "17.100s",
+              "word": "velvetviolet",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "17.100s",
+              "endOffset": "17.700s",
+              "word": "lining",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "17.700s",
+              "endOffset": "18s",
+              "word": "with",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "18s",
+              "endOffset": "18.100s",
+              "word": "the",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "18.100s",
+              "endOffset": "18.800s",
+              "word": "lamplight",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "18.800s",
+              "endOffset": "19.400s",
+              "word": "gloating",
+              "confidence": 0.9524587
+            },
+            {
+              "startOffset": "19.400s",
+              "endOffset": "19.500s",
+              "word": "over",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "19.500s",
+              "endOffset": "20.600s",
+              "word": "she",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "20.600s",
+              "endOffset": "21.200s",
+              "word": "shall",
+              "confidence": 0.97219545
+            },
+            {
+              "startOffset": "21.200s",
+              "endOffset": "21.600s",
+              "word": "press",
+              "confidence": 0.9520939
+            },
+            {
+              "startOffset": "21.600s",
+              "endOffset": "22.300s",
+              "word": "ah",
+              "confidence": 0.9520939
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "22.300s",
+      "languageCode": "en-US"
+    },
+    {
+      "alternatives": [
+        {
+          "transcript": " Nevermore",
+          "confidence": 0.9375718,
+          "words": [
+            {
+              "startOffset": "23.900s",
+              "endOffset": "24.400s",
+              "word": "Nevermore",
+              "confidence": 0.9375718
+            }
+          ]
+        }
+      ],
+      "resultEndOffset": "25.100s",
+      "languageCode": "en-US"
+    }
+  ]
+}
