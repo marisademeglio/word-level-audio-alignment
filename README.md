@@ -1,6 +1,7 @@
 # word-level-audio-alignment
- Use a speech to text API to synchronize at the word level
+Use a speech to text API to synchronize at the word level
 
+See the [live demo](https://marisademeglio.github.io/word-level-audio-alignment/raven/) and be sure to view it with a browser that supports [CSS Highlights API](https://caniuse.com/mdn-api_highlight_has), such as Chrome.
 
 ## File structure
 
